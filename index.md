@@ -2,5 +2,6 @@
 
 ### Education
 Texas A&M, Class of 2019
-    Aerospace Engineering 
+  B.S. Aerospace Engineering
+  Minor in Mathematics and Computer Science  
   
