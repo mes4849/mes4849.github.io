@@ -1,4 +1,7 @@
-### Basic about nnnme :) 
-# FUCK
- fuck
- fuck
+---
+layout: default
+title: "About Me"
+---
+### Basic about me :) 
+   fuckme
+ fuck me hard
