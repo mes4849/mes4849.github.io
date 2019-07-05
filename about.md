@@ -1,1 +1,1 @@
- 
+Howdy! This my personal website where I share all my projects, experiences, and anything else relevant to my life.
