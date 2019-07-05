@@ -2,6 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-#body .article h4 {
-    color: #870505;
+body {
+  background-color: #fff;
+  padding:50px;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#870505;
+  font-weight:400;
 }
