@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: default
 title: "About Me"
 permalink: /about/
 ---
-Basic about me :) 
+### Basic about me :) 
