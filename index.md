@@ -4,4 +4,4 @@ This website is a personal project of mine - I share technical projects I am wor
 My personal hobbies include working with MCU's (Arduino, Raspberri Pi), Data Science, and anything related to trading equities. I welcome you to read through the different pages, especially [About Me](./about.html) to learn more about my background!
 
 Feel free to reach out to me through GitHub or email, I am always looking forwards to connecting with others for professional or personal reasons!
-    
+      
