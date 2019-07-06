@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+header {
+  width:270px;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
 section {
     padding-bottom:50px;
 }
