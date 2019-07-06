@@ -8,8 +8,15 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 section {
-    float:middle;
-    padding-bottom:50px;
+  width:500px;
+  float:middle;
+  padding-bottom:50px;
+}
+footer {
+  width:270px;
+  float:middle;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
 }
 h3 {
     display: inline;
