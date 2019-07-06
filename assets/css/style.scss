@@ -7,18 +7,21 @@ header {
   width:270px;
   -webkit-font-smoothing:subpixel-antialiased;
   display: block;
+  position:static;
 }
 section {
   width:500px;
   float:none;
   padding-bottom:50px;
   display: block;
+  position:static;
 }
 footer {
   width:270px;
   float:none;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+  position:static;
 }
 h3 {
     display: inline;
