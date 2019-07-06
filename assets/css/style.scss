@@ -3,18 +3,18 @@
 
 @import "{{ site.theme }}";
 header {
-  float:middle;
+  float:none;
   width:270px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 section {
   width:500px;
-  float:middle;
+  float:none;
   padding-bottom:50px;
 }
 footer {
   width:270px;
-  float:middle;
+  float:none;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
