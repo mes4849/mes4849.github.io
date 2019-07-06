@@ -3,11 +3,13 @@
 
 @import "{{ site.theme }}";
 header {
+  float:middle;
   width:270px;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 section {
+    float:middle;
     padding-bottom:50px;
 }
 h3 {
