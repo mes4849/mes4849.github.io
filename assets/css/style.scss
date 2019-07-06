@@ -4,21 +4,21 @@
 @import "{{ site.theme }}";
 header {
   float:none;
-  width:500px;
+  width:auto;
   -webkit-font-smoothing:subpixel-antialiased;
   display: block;
   position:static;
   padding-bottom:50px;
 }
 section {
-  width:500px;
+  width:auto;
   float:none;
   padding-bottom:50px;
   display: block;
   position:static;
 }
 footer {
-  width:500px;
+  width:auto;
   float:none;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
