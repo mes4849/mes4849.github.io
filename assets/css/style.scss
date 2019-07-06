@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+h4 {
+    display: inline;
+}
 a:link {
   color:#870505;
 }
