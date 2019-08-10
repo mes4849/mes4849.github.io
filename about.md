@@ -5,4 +5,7 @@ layout: default
     <h2><a style="color: black">Background</a></h2>
 </center>
 
-I graduated from Texas A&M in Fall 2019 with a B.S. in Aerospace Engineering and minors in Computer Science and Mathematics.
+#### Education
+Texas A&M University | 2019
+- BS in Aerospace Engineering
+- Minors in Computer Science & Math
