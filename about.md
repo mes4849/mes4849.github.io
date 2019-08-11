@@ -19,7 +19,7 @@ I am a current senior at Texas A&M where I will be graduating from this December
 - BS in Aerospace Engineering
 - Minors in Computer Science & Math
 
-**Relevant Courses**
+#### Relveant Courses
 - Capstone Project (Senior Design): Manned DST vehicle to / from Mars
 - Flight Test Engineering
 - Orbital Mechanics ; Active controls ; Numerical Methods and Advanced Engineering Math 
