@@ -8,7 +8,7 @@ layout: default
 **HOWDY**
 
 I am a current senior at Texas A&M where I will be graduating from this December (12/19) with a B.S. in Aerospace Engineering. Within aerospace, I have strong interests in fields where I can apply my strong programming background, such as GNC, and also enjoy systems engineering. Outside of this, I have developed a strong interest in data science, with applications to business intelligence and cybersecurity.
-<a> </a>
+<a><br></a>
 
 
 <center>
@@ -24,7 +24,7 @@ I am a current senior at Texas A&M where I will be graduating from this December
 - Flight Test Engineering
 - Orbital Mechanics ; Active controls ; Numerical Methods and Advanced Engineering Math 
 - Data Structures & Algorithms
-<a> </a>
+<a><br></a>
  
  
 <center>
