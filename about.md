@@ -5,7 +5,7 @@ layout: default
     <h2><a style="color: black">Background</a></h2>
 </center>
 
-**HOWDY**
+### Howdy
 
 I am a current senior at Texas A&M where I will be graduating from this December (12/19) with a B.S. in Aerospace Engineering. Within aerospace, I have strong interests in fields where I can apply my strong programming background, such as GNC, and also enjoy systems engineering. Outside of this, I have developed a strong interest in data science, with applications to business intelligence and cybersecurity.
 
