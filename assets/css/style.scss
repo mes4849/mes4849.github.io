@@ -10,17 +10,18 @@ header {
   position:static;
   padding:0;
   padding-bottom:25px;
+  margin:0px 0px 0px 0px;
 }
 section {
   width:auto;
   float:none;
-  padding-bottom:50px;
   display: block;
   position:static;
   border:1px solid #e5e5e5;
-  border-width:1px 0;
+  border-width:5px 0;
   padding:20px 0;
   margin:0 0 20px;
+  padding-bottom:25px;
 }
 footer {
   width:auto;
@@ -31,6 +32,13 @@ footer {
 }
 p {
   margin-top: 8px;
+}
+ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+li {
+  margin-top:8px;
 }
 h3 {
     display: inline;
@@ -67,6 +75,7 @@ a:hover {
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
+    padding-bottom:25px;
   }
 
   header a small {

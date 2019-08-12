@@ -1,4 +1,5 @@
 ---
+title: About Me
 layout: default
 ---
 <center>
@@ -19,7 +20,7 @@ I am a current senior at Texas A&M where I will be graduating from this December
 ### Texas A&M University | 2019
 - BS in Aerospace Engineering
 - Minors in Computer Science & Math
-
+<p></p>
 #### Relveant Courses
 - Capstone Project (Senior Design): Manned DST vehicle to / from Mars
 - Flight Test Engineering
@@ -38,4 +39,5 @@ I am a current senior at Texas A&M where I will be graduating from this December
     -   Experience using IBM Cognos Analytics to create dashboards and author reports to present various KPI's and other key statistics
 -   **SQL**
     -   Experience using Oracle database and IBM Netezza for data exploration as part of BI projects
-    -   Implemented pattern matching algorithm on Oracle Database for fraud detection 
+    -   Implemented pattern matching algorithm on Oracle Database for fraud detection
+<p></p>
