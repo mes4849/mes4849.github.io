@@ -6,8 +6,6 @@ layout: default
     <h2><a style="color: black">Background</a></h2>
 </center>
 
-### Howdy
-
 I am Texas A&M Former Student, class of 2019. I currently work at AIG, doing data analytics and SailPoint development within our Identity and Access Management division. I have a passion for applying my critical thinking and strong programming foundations to find innovative and efficient approaches for our deliverables.
 <p></p>
 I work extensively with Python (pandas, numpy, cx_oracle), SQL, and am starting to leverage the power of Django to create a more accessible and automated platform to share analysis insights.
