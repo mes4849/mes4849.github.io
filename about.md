@@ -8,7 +8,7 @@ layout: default
 
 ### Howdy
 
-I am a current senior at Texas A&M where I will be graduating from this December (12/19) with a B.S. in Aerospace Engineering. Within aerospace, I have strong interests in fields where I can apply my strong programming background, such as GNC, and also enjoy systems engineering. Outside of this, I have developed a strong interest in data science, with applications to business intelligence and cybersecurity.
+I am Texas A&M Former Student, class of 2019. I currently work at AIG, doing data analytics and development within our Identity and Access Management division. I have a passion for applying my critical thinking and strong programming foundations to find innovative and efficient approaches for our deliverables. 
 
 <a><br></a>
 
@@ -24,12 +24,12 @@ I am a current senior at Texas A&M where I will be graduating from this December
 #### Relveant Courses
 - Capstone Project (Senior Design): Manned DST vehicle to / from Mars
 - Flight Test Engineering
-- Orbital Mechanics ; Active controls ; Numerical Methods and Advanced Engineering Math 
+- Orbital Mechanics ; Active controls ; Numerical Methods and Advanced Engineering Math
 - Data Structures & Algorithms
 
 <a><br></a>
- 
- 
+
+
 <center>
     <h2><a style="color: black">Experience</a></h2>
 </center>
