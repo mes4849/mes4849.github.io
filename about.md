@@ -8,7 +8,9 @@ layout: default
 
 I am Texas A&M Former Student, class of 2019. I currently work at AIG, doing data analytics and SailPoint development within our Identity and Access Management division. I have a passion for applying my critical thinking and strong programming foundations to find innovative and efficient approaches for our deliverables.
 <p></p>
-I work extensively with Python (pandas, numpy, cx_oracle), SQL, and am starting to leverage the power of Django to create a more accessible and automated platform to share analysis insights.
+I work extensively with Python (pandas, numpy, cx_oracle), SQL, and am starting to leverage the power of Django to create a more accessible and automated platform to share analysis insights. In addition, some hobbies include investing & trading securities, working on my cars, and reading.
+<p></p>
+I am constantly looking at ways of growing my career and becoming better at what I do. I appreciate all the opportunities that come my way and am always open to professional and personal connections. 
 
 <a><br></a>
 
