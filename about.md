@@ -37,11 +37,18 @@ I am constantly looking at ways of growing my career and becoming better at what
 </center>
 
 ### Analytics
--   **Business Intelligence**
+-   **Business Intelligence / Reporting**
+    - Microsoft PowerBI
+        * Dashboard creation
+        * DAX - Dynamic tables, custom columns, filters, measures
     -   IBM Cognos Analytics
         * Data modeling with Cognos Framework Manager
         * Dashboard and report authoring - Hierarchical, time series, and other relational data
 -   **SQL**
     -   Experience using Oracle database and IBM Netezza for data exploration as part of BI projects
     -   Implemented pattern matching algorithm on Oracle Database for fraud detection
-<p></p>
+
+### Software
+-   **Java**
+    -   SailPoint Identity IQ
+        * AWS IAM direct connector
