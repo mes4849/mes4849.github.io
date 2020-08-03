@@ -45,10 +45,21 @@ I am constantly looking at ways of growing my career and becoming better at what
         * Data modeling with Cognos Framework Manager
         * Dashboard and report authoring - Hierarchical, time series, and other relational data
 -   **SQL**
-    -   Experience using Oracle database and IBM Netezza for data exploration as part of BI projects
-    -   Implemented pattern matching algorithm on Oracle Database for fraud detection
+    - Oracle SQL Server (PL/SQL)
+        * Data exploration
+        * Queries to aggregate data from several tables for PowerBI ingestion
+    - IBM Netezza for Cognos Analytics
+-   **Python**
+    - Pandas
+        * Exploratory data analysis from SQL Data
+        * Merging, filtering, concatenating
+    - SQL Connection (cx_oracle)
+        * Dynamic SQL queries
 
 ### Software
 -   **Java**
-    -   SailPoint Identity IQ
+    - SailPoint Identity IQ
         * AWS IAM direct connector
+    **Python**
+    - Identity Correlation Script
+        * Pandas driven data analytics
