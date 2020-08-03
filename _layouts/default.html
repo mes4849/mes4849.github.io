@@ -9,10 +9,10 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->    
-  
+    <![endif]-->
+
   </head>
-  
+
   <body>
     <div class="wrapper">
       <header>
@@ -21,10 +21,10 @@
         </center>
         <a><br></a>
 
-        <h1><a href="{{ "/" | absolute_url }}"style="color: #267cb9">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
+        <h1><a href="{{ "/" | absolute_url }}"style="color: #267cb9; text-align: center;">{{ site.title | default: site.github.repository_name }}</a></h1>
+
         <h3><a href="{{ "/" | absolute_url }}">Home</a></h1> <h3><a>&nbsp&nbsp&nbsp&nbsp</a></h3> <h3><a href="/about.html">About Me</a></h3> <h3><a>&nbsp&nbsp&nbsp&nbsp</a></h3> <h3><a href="/projects.html">Projects</a></h3>
-        
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -37,11 +37,11 @@
             </ul>
         {% endif %}
         </header>
-        
+
         <section>
         {{ content }}
         </section>
-      
+
       <footer>
         {% if site.github.is_project_page %}
         <p>This web is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }} (Martin Saa)</a></p>
