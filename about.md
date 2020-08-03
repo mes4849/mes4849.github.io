@@ -23,11 +23,6 @@ I am constantly looking at ways of growing my career and becoming better at what
 - BS in Aerospace Engineering
 - Minors in Computer Science & Math
 <p></p>
-#### Relveant Courses
-- Capstone Project (Senior Design): Manned DST vehicle to / from Mars
-- Flight Test Engineering
-- Orbital Mechanics ; Active controls ; Numerical Methods and Advanced Engineering Math
-- Data Structures & Algorithms
 
 <a><br></a>
 
