@@ -47,7 +47,7 @@ I am constantly looking at ways of growing my career and becoming better at what
 -   **SQL**
     - Oracle SQL Server (PL/SQL)
         * Data exploration
-        * Queries to aggregate data from several tables for PowerBI ingestion
+        * Data aggregation for PowerBI ingestion
     - IBM Netezza for Cognos Analytics
 -   **Python**
     - Pandas
@@ -58,8 +58,6 @@ I am constantly looking at ways of growing my career and becoming better at what
 
 ### Software
 -   **Java**
-    - SailPoint Identity IQ
-        * AWS IAM direct connector
+    - Application connector to AWS IAM Service
     **Python**
-    - Identity Correlation Script
-        * Pandas driven data analytics
+    - Pandas driven identity analytics
