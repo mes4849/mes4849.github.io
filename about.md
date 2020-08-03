@@ -59,5 +59,5 @@ I am constantly looking at ways of growing my career and becoming better at what
 ### Software
 -   **Java**
     - Application connector to AWS IAM Service
-    **Python**
+-   **Python**
     - Pandas driven identity analytics
