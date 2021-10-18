@@ -11,7 +11,7 @@ Howdy, I am a Loud & Proud member of the Fighting Texas Aggie class of 2019! I c
 
 I work extensively with Python - especially Pandas & NumPy, SQL, PowerShell, and PowerBI. I am effective in transforming insights to action, and find novel ways to get the data we need.
 <br>
-In my free time I enjoy working on cars, woodworking, and fimrly believe in continuing education.
+In my free time I enjoy working on cars, woodworking, and firmly believe in continuing education.
 
 <p></p>
 I am constantly looking at ways of growing my career and becoming better at what I do. I appreciate all the opportunities that come my way and am always open to professional and personal connections.
